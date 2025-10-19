@@ -1,0 +1,22 @@
+---
+title: "Curated Collections"
+---
+
+## How to contact us
+
+Join the [https://join.slack.com/t/curatedcollections/shared_invite/zt-3g65gd6jo-6FkQItCbAaMh26RMK9zJPA](project Slack)
+
+You can also email [mailto:m.lynch@sydney.edu.au](m.lynch@sydney.edu.au) or register a collection in the repository.
+
+## Register a collection
+
+You can let us know about your collection by creating an issue
+on the Curated Collections GitHub repository:
+
+[https://github.com/Sydney-Informatics-Hub/CuratedCollections/issues](Issues)
+
+If you don't want to use Git, you can let us know about your interest on Slack or via email.
+ 
+
+
+
