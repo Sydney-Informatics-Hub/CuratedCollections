@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Curated Collections",
+    "section": "",
+    "text": "Curated Collections is a project to provide a national platform for sustainable digital humanities collections. It is a collaboration between the Australian Research Data Commons and the Sydney Informatics Hub, a Core Research Facility of the University of Sydney, and is part of the ARDC’s HASS and Indigenous Research Data Commons."
+  },
+  {
+    "objectID": "index.html#how-to-contact-us",
+    "href": "index.html#how-to-contact-us",
+    "title": "Curated Collections",
+    "section": "How to contact us",
+    "text": "How to contact us\nJoin the project Slack\nYou can also email m.lynch@sydney.edu.au or register a collection in the repository."
+  },
+  {
+    "objectID": "index.html#register-a-collection",
+    "href": "index.html#register-a-collection",
+    "title": "Curated Collections",
+    "section": "Register a collection",
+    "text": "Register a collection\nYou can let us know about your collection by creating an issue on the Curated Collections GitHub repository:\nIssues\nIf you don’t want to use Git, you can let us know about your interest on Slack or via email."
+  }
+]
