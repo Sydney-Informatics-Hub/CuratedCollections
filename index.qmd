@@ -7,6 +7,12 @@ for sustainable digital humanities collections. It is a
 collaboration between the [Australian
 Research Data Commons](https://www.ardc.edu.au) and the [Sydney Informatics Hub](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html), a Core Research Facility of [the University of Sydney](https://www.sydney.edu.au), and is part of the [ARDC's HASS and Indigenous Research Data Commons](https://ardc.edu.au/hass-and-indigenous-research-data-commons/).
 
+## eResearch 2025 BOF Session
+
+[Sustainable Digital Humanities Collections](eRes2025_bof.pptx)
+
+Notes from the session will be added to this website soon.
+
 ## How to contact us
 
 Join the [project Slack](https://join.slack.com/t/curatedcollections/shared_invite/zt-3g65gd6jo-6FkQItCbAaMh26RMK9zJPA)
