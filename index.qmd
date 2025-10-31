@@ -16,6 +16,7 @@ Notes from the session will be added to this website soon.
 ## Project documentation
 
 * [FAIR principles statement](./FAIR.html)
+* [Tech options](./tech_options.html)
 
 ## How to contact us
 
