@@ -1,0 +1,35 @@
+---
+title: "FAIR Principles"
+---
+The standard Omeka S distribution will include resource templates
+which align metadata with linked-open data standards and
+vocabularies. By default, Omeka S embeds JSON-LD machine-readable
+metadata in resource pages, allowing automated metadata discovery.
+
+All collections hosted on the platform will be automatically
+exported to file-based backups using the RO-Crate metadata standard.
+RO-Crate is designed on linked-open data principles and can
+preserve metadata as URIs. RO-Crate archives will be provided with
+an accessible, lightweight web interface which will allow
+archived collections to still be available for research and
+community users without depending on the Omeka S web stack.
+
+As part of the migration tooling developed in the second and third
+phases of the project, round-trip migration from Omeka S to RO-Crate
+and back will be supported. This will allow archived projects to
+be "rehydrated" and imported back into an active platform.
+
+The Curated Collections project will coordinate efforts with the
+[Enhanced Analytics for HASS and Indigenous Data](https://ardc.edu.au/project/enhanced-analytics-for-hass-and-indigenous-data/) project
+as a way to validate the reusability of its collections via
+RO-Crates.
+
+The Omeka S distribution will be made available as an open-source
+resource and set of pre-built containers. This will allow
+individuals or institutions to quickly deploy their own instances
+of the platform.
+
+More details on Omeka's support for FAIR principles can be found
+at [this blog post](https://omeka.org/news/2025/08/13/omeka-and-FAIR/)
+
+More details about the RO-Crate standard can be found at the [RO-Crate website](https://www.researchobject.org/ro-crate/)
