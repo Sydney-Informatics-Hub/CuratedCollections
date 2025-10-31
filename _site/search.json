@@ -18,7 +18,7 @@
     "href": "index.html#project-documentation",
     "title": "Curated Collections",
     "section": "Project documentation",
-    "text": "Project documentation\n\nFAIR principles statement"
+    "text": "Project documentation\n\nFAIR principles statement\nTech options"
   },
   {
     "objectID": "index.html#how-to-contact-us",
@@ -33,6 +33,13 @@
     "title": "Curated Collections",
     "section": "Register a collection",
     "text": "Register a collection\nYou can let us know about your collection by creating an issue on the Curated Collections GitHub repository:\nIssues\nIf you don’t want to use Git, you can let us know about your interest on Slack or via email."
+  },
+  {
+    "objectID": "tech_options.html",
+    "href": "tech_options.html",
+    "title": "Tech stack",
+    "section": "",
+    "text": "Platform: Omeka S\nContainerisation: Docker\nDeployment: Terraform via OpenStack\nAuthentication and access: CILogon"
   },
   {
     "objectID": "FAIR.html",

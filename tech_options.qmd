@@ -1,0 +1,10 @@
+---
+title: "Tech stack"
+---
+
+* Platform: [Omeka S](https://omeka.org/s/)
+* Containerisation: [Docker](https://www.docker.com/)
+* Deployment: [Terraform via OpenStack](https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs)
+* Authentication and access: [CILogon](https://www.cilogon.org/)
+
+
