@@ -14,6 +14,13 @@
     "text": "eResearch 2025 BOF Session\nSustainable Digital Humanities Collections\nNotes from the session will be added to this website soon."
   },
   {
+    "objectID": "index.html#project-documentation",
+    "href": "index.html#project-documentation",
+    "title": "Curated Collections",
+    "section": "Project documentation",
+    "text": "Project documentation\n\nFAIR principles statement"
+  },
+  {
     "objectID": "index.html#how-to-contact-us",
     "href": "index.html#how-to-contact-us",
     "title": "Curated Collections",
@@ -26,5 +33,12 @@
     "title": "Curated Collections",
     "section": "Register a collection",
     "text": "Register a collection\nYou can let us know about your collection by creating an issue on the Curated Collections GitHub repository:\nIssues\nIf you don’t want to use Git, you can let us know about your interest on Slack or via email."
+  },
+  {
+    "objectID": "FAIR.html",
+    "href": "FAIR.html",
+    "title": "FAIR Principles",
+    "section": "",
+    "text": "The standard Omeka S distribution will include resource templates which align metadata with linked-open data standards and vocabularies. By default, Omeka S embeds JSON-LD machine-readable metadata in resource pages, allowing automated metadata discovery.\nAll collections hosted on the platform will be automatically exported to file-based backups using the RO-Crate metadata standard. RO-Crate is designed on linked-open data principles and can preserve metadata as URIs. RO-Crate archives will be provided with an accessible, lightweight web interface which will allow archived collections to still be available for research and community users without depending on the Omeka S web stack.\nAs part of the migration tooling developed in the second and third phases of the project, round-trip migration from Omeka S to RO-Crate and back will be supported. This will allow archived projects to be “rehydrated” and imported back into an active platform.\nThe Curated Collections project will coordinate efforts with the Enhanced Analytics for HASS and Indigenous Data project as a way to validate the reusability of its collections via RO-Crates.\nThe Omeka S distribution will be made available as an open-source resource and set of pre-built containers. This will allow individuals or institutions to quickly deploy their own instances of the platform.\nMore details on Omeka’s support for FAIR principles can be found at this blog post\nMore details about the RO-Crate standard can be found at the RO-Crate website"
   }
 ]

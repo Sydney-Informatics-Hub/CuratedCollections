@@ -13,6 +13,10 @@ Research Data Commons](https://www.ardc.edu.au) and the [Sydney Informatics Hub]
 
 Notes from the session will be added to this website soon.
 
+## Project documentation
+
+* [FAIR principles statement](./FAIR.html)
+
 ## How to contact us
 
 Join the [project Slack](https://join.slack.com/t/curatedcollections/shared_invite/zt-3g65gd6jo-6FkQItCbAaMh26RMK9zJPA)
